@@ -4,9 +4,9 @@
 ## Community Links
 * [Discussion List](http://bitly.com/nyc-crow)
 * [Tasks](https://github.com/CityOfNewYork/CROL-PDF/issues)
-* [Wiki](https://github.com/CityOfNewYork/CROL-PDF/wiki)
-* [Download PDFs]()
-* [Press Release & News Articles]()
+* [Tools and Wiki](https://github.com/CityOfNewYork/CROL-PDF/wiki)
+* [Download PDFs](https://github.com/CityOfNewYork/CROL-PDF#download-pdfs)
+* [Press Release & News Articles](https://github.com/CityOfNewYork/CROL-PDF#press-releases-blog-posts-and-news-articles)
 
 ## About
 As the City embarks on implementing Intro 363-2014 and unlocking its daily actions, we are building a public workgroup to unlock the decades of historical information and make it accessible to all, at no charge. 
@@ -23,6 +23,15 @@ This project will start by converting the City Record PDFs, with more than 15 ye
 * Ontodia
 * Socrata
 * Sunlight Foundation
+
+## How to get started
+Currently, there are three things you can do.
+* [Join the City Record Online Working Group, aka CROW](http://bitly.com/nyc-crow) discussion list.
+* [Help download and share PDFs](https://github.com/CityOfNewYork/CROL-PDF#download-pdfs)
+* [Help document schema](https://github.com/CityOfNewYork/CROL-PDF/wiki)
+* [Help document tools to help scrape](https://github.com/CityOfNewYork/CROL-PDF/wiki/Scraping-tools)
+
+
 
 ## Download PDFs
 For now, there is 1.5 gigs of archival PDFs that are 'text selectable.' The best way to share these files is via the [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent). 
