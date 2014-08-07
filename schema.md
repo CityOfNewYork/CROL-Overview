@@ -1,9 +1,9 @@
-Record Types and Schemas
+# Record Types and Schemas #
 
 Working doc using records from 8/7/2014 City Record PDF:http://www.nyc.gov/html/dcas/downloads/pdf/cityrecord/cityrecord-08-07-14.pdf  -CMW
 
 
-publicHearings
+### publicHearings ###
 
   entityName: "City Planning Commission"
   subEntityName: 
@@ -33,7 +33,7 @@ publicHearings
   
 
 
-propertyDisposition
+### propertyDisposition ###
 
   entityName:"Citywide Administrative Services"
   subEntityName: "Office of Citywide Procurement"
@@ -41,7 +41,7 @@ propertyDisposition
   
 
 
-procurement
+### procurement ###
 
 
 
