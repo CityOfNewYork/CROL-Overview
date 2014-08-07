@@ -28,7 +28,7 @@ This project will start by converting the City Record PDFs, with more than 15 ye
 Currently, there are three things you can do.
 * [Join the City Record Online Working Group, aka CROW](http://bitly.com/nyc-crow) discussion list.
 * [Help download and share PDFs](https://github.com/CityOfNewYork/CROL-PDF#download-pdfs)
-* [Help document schema](https://github.com/CityOfNewYork/CROL-PDF/wiki)
+* [Help document schemas](https://github.com/CityOfNewYork/CROL-PDF/wiki)
 * [Help document tools to help scrape](https://github.com/CityOfNewYork/CROL-PDF/wiki/Scraping-tools)
 
 
