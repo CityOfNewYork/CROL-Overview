@@ -31,17 +31,22 @@ Currently, there are three things you can do.
 * [Help document schemas](https://github.com/CityOfNewYork/CROL-PDF/wiki)
 * [Help document tools to help scrape](https://github.com/CityOfNewYork/CROL-PDF/wiki/Scraping-tools)
 
-
-
 ## Download PDFs
-For now, there is 16.3 gigs of archival PDFs that are via the [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent).
-* 1998 to 2008 are scaned documents 
-* March 2008 till now are 'text selectable.'  
+Currently, we are working on developing a number of outlets to download this treasure trove of information. In total, there are 16.3 gigs of archival PDFs. 
+* 1998 to 2008 are scaned documents (BitTorrent Sync Only)
+* March 2008 till present are 'text selectable' (BitTorrent and Google Docs)
 
-The first step in this project is downloaded and sharing the files using [BitTorrent Sync](http://www.bittorrent.com/sync/get-started). To download and socialize these PDFs, you will need to download [BitTorrent Sync](http://www.bittorrent.com/sync/get-started) and use the following read-only 'secret' passcode "BDGM4KAQHZ6XII2JNJREDX6VDN3QTLI7G"
+###Google Docs
+We are in the process of uploading all of the documents. For now, you can only access the text selectable documents (March 2008 till present) via http://bit.ly/gdocs-crow 
+
+### BitTorrent (shareable link bit.ly/bts-crow)
+For now, there is 16.3 gigs of archival PDFs that are via the [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent). This is the complete set. To download and socialize these PDFs, you will need to download [BitTorrent Sync](http://www.bittorrent.com/sync/get-started) and use the following read-only 'secret' passcode "BDGM4KAQHZ6XII2JNJREDX6VDN3QTLI7G"
+
+### FTP
+This is in process.
 
 ## Press Releases, Blog Posts, and News Articles
-* First
+* BetaNYC Statement
 * Second
 * Third
 
