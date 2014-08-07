@@ -34,7 +34,9 @@ Currently, there are three things you can do.
 
 
 ## Download PDFs
-For now, there is 1.5 gigs of archival PDFs that are 'text selectable.' The best way to share these files is via the [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent). 
+For now, there is 16.3 gigs of archival PDFs that are via the [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent).
+* 1998 to 2008 are scaned documents 
+* March 2008 till now are 'text selectable.'  
 
 The first step in this project is downloaded and sharing the files using [BitTorrent Sync](http://www.bittorrent.com/sync/get-started). To download and socialize these PDFs, you will need to download [BitTorrent Sync](http://www.bittorrent.com/sync/get-started) and use the following read-only 'secret' passcode "BDGM4KAQHZ6XII2JNJREDX6VDN3QTLI7G"
 
