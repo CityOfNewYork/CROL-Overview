@@ -4,6 +4,7 @@ Working doc using records from 8/7/2014 City Record PDF:http://www.nyc.gov/html/
 
 
 publicHearings
+
   entityName: "City Planning Commission"
   subEntityName: 
   time: "2014-08-20T10:00:00-04:00"
@@ -33,6 +34,7 @@ publicHearings
 
 
 propertyDisposition
+
   entityName:"Citywide Administrative Services"
   subEntityName: "Office of Citywide Procurement"
   recordText: "The Department of Citywide Administrative Services, Office of Citywide Procurement is currently selling surplus assets on the internet. Visit http://www.publicsurplus.com/sms/nycdcas.ny/browse/home. To begin bidding, simply click on ‘Register’ on the home page. There are no fees to register. Offerings may include but are not limited to: office supplies/equipment, furniture, building supplies, machine tools, HVAC/plumbing/electrical equipment, lab equipment, marine equipment, and more. Public access to computer workstations and assistance with placing bids is available at the following locations:� DCAS Central Storehouse, 66-26 Metropolitan Avenue, Middle Village, NY 11379 � DCAS, Office of Citywide Procurement, 1 Centre Street, 18th Floor, New York, NY 10007"
