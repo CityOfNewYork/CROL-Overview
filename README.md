@@ -65,5 +65,6 @@ If you have the [Google Drive for your computer](https://tools.google.com/dlpage
 * [Citizens Union Statement](http://us3.campaign-archive1.com/?u=ca0fb41d668202ba6cc542ca8&id=91fa752d3f&e=[UNIQID])
 * [Gotham Gazette](http://www.gothamgazette.com/index.php/government/5211-de-blasio-embraces-civic-tech-bill-city-record-online)
 * [CM Ben Kallos Press Release](http://benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner)
+* [TechPresident](http://techpresident.com/news/25231/new-york-city-and-silicon-valley-local-government-innovation-gets-outside-help)
 
 
