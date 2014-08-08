@@ -40,8 +40,8 @@ Currently, we are working on developing a number of outlets to download this tre
 We are in the process of uploading all of the documents. For now, you can only access the text selectable documents (March 2008 till present) via http://bit.ly/gdocs-crow 
 
 ### HTML/XML
-#### [Browse All City Records](http://www.nyc.gov/html/misc/html/cityrecord/cityrecord.html)
-#### [Download XML Listing for All City Records](http://www.nyc.gov/html/misc/html/cityrecord/cityrecord.xml)
+* [Browse All City Records](http://www.nyc.gov/html/misc/html/cityrecord/cityrecord.html)
+* [Download XML Listing for All City Records](http://www.nyc.gov/html/misc/html/cityrecord/cityrecord.xml)
 
 ### BitTorrent (shareable link bit.ly/bts-crow)
 For now, there is 16.3 gigs of archival PDFs that are via the [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent). This is the complete set. To download and socialize these PDFs, you will need to download [BitTorrent Sync](http://www.bittorrent.com/sync/get-started) and use the following read-only 'secret' passcode "BDGM4KAQHZ6XII2JNJREDX6VDN3QTLI7G"
