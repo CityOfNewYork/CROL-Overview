@@ -1,6 +1,6 @@
 # Record Types and Schemas #
 
-Working doc using records from 8/7/2014 City Record PDF:http://www.nyc.gov/html/dcas/downloads/pdf/cityrecord/cityrecord-08-07-14.pdf  -CMW
+Working doc using records from 8/7/2014 City Record PDF: http://www.nyc.gov/html/dcas/downloads/pdf/cityrecord/cityrecord-08-07-14.pdf  -CMW
 
 
 ### publicHearings ###
@@ -40,9 +40,8 @@ Working doc using records from 8/7/2014 City Record PDF:http://www.nyc.gov/html/
             "addressCountry": "USA",
             "addressLocality": "New York",
             "addressRegion": "NY",
-            "postalCode": "COMMENT: postal code and lat/long retrieved from GeoSupport",
             "postalCode": "10007",
-            "streetAddress": "Spector Hall, 22 Reade Street"
+            "streetAddress": "Spector Hall, 22 Reade Street, Room 2E"
         },
         "geo": {
             "@type": "GeoCoordinates",
@@ -51,11 +50,22 @@ Working doc using records from 8/7/2014 City Record PDF:http://www.nyc.gov/html/
         }
     },
     "description/recordText": "IN THE MATTER OF an application submitted by the Department of Housing Preservation and Development (HPD); UDAAP designation, project approval and disposition of city-owned property to facilitate development of an 8-story mixed-use building with approximately 51 residential dwelling units, 41 units of affordable housing and ground floor commercial space.",
-    "organizer/pointOfContact": {
-        "@type": "Person",
-        "name": "YVETTE V. GRUEL",
-        "jobTitle": "Calendar Officer"
-    }
+    "organizer": [
+        {
+            "@type": "GovernmentOrganization",
+            "name": "City Planning Commission"
+        },
+        {
+            "@type": "Person",
+            "name": "YVETTE V. GRUEL",
+            "jobTitle": "Calendar Officer",
+            "contactPoint": {
+                "@type": "contactPoint",
+                "telephone": "(212) 720-3370",
+                "contactType": "customer service"
+            }
+        }
+    ]
 }
 </script> 
 ```  
