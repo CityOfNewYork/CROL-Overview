@@ -24,7 +24,41 @@ Working doc using records from 8/7/2014 City Record PDF:http://www.nyc.gov/html/
   recordText: "IN THE MATTER OF a Notice of Intent to acquire office space submitted by the Department of Citywide Administrative Services, pursuant to Section 195 of the New York City Charter for use of property located at 420 Lexington Avenue (Block 1280, Lot 60) (Office of Court Administration offices)."
   
   pointOfContact: "YVETTE V. GRUEL, Calendar Officer"
-  
+
+#### Schema.org version - JSON-LD ####
+```json
+ <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Event/Hearing",
+    "name/hearingTitle": "420 LEXINGTON AVENUE OFFICE SPACE",
+    "url/hearingID": "C 140411 HAK",
+    "location": {
+        "@type": "Place",
+        "address": {
+            "@type": "PostalAddress",
+            "addressCountry": "USA",
+            "addressLocality": "New York",
+            "addressRegion": "NY",
+            "postalCode": "COMMENT: postal code and lat/long retrieved from GeoSupport",
+            "postalCode": "10007",
+            "streetAddress": "Spector Hall, 22 Reade Street"
+        },
+        "geo": {
+            "@type": "GeoCoordinates",
+            "latitude": "40.721290",
+            "longitude": "-73.948890"
+        }
+    },
+    "description/recordText": "IN THE MATTER OF an application submitted by the Department of Housing Preservation and Development (HPD); UDAAP designation, project approval and disposition of city-owned property to facilitate development of an 8-story mixed-use building with approximately 51 residential dwelling units, 41 units of affordable housing and ground floor commercial space.",
+    "organizer/pointOfContact": {
+        "@type": "Person",
+        "name": "YVETTE V. GRUEL",
+        "jobTitle": "Calendar Officer"
+    }
+}
+</script> 
+```  
   
   entityName: "Brooklyn Community Board 1"
   
