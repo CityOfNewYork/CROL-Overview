@@ -33,6 +33,8 @@ Working doc using records from 8/7/2014 City Record PDF: http://www.nyc.gov/html
     "@type": "Event/Hearing",
     "name/hearingTitle": "420 LEXINGTON AVENUE OFFICE SPACE",
     "url/hearingID": "C 140411 HAK",
+    "startDate": "2014-08-20T10:00:00",
+    "duration": "PT6H",
     "location": {
         "@type": "Place",
         "address": {
