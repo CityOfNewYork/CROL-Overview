@@ -48,10 +48,10 @@ We have shared the [complete collection of files via Dropbox](http://bit.ly/drop
 ### BitTorrent Sync (Complete set)
 As a bit of an experiment we are using [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent). This is the complete 16.3 gigs. Please help by downloading and socializing these PDFs. You will need to download [BitTorrent Sync](http://www.bittorrent.com/sync/get-started) and use the following read-only 'secret' passcode "BDGM4KAQHZ6XII2JNJREDX6VDN3QTLI7G" (shareable link bit.ly/bts-crow)
 
-### FTP (In Process)
+### FTP (Complete set)
 BetaNYC is hosting an [FTP server](http://en.wikipedia.org/wiki/File_Transfer_Protocol) with all of the PDFs. These files can be fetched anonymously via [files.betanyc.us](ftp://anonymous@files.betanyc.us:21/).
 
-### Google Docs (In Process)
+### Google Docs (Complete set)
 If you have the [Google Drive for your computer](https://tools.google.com/dlpage/drive), you can download all of the PDFs to your local computer. We are in the process of uploading all of the documents. For now, you can only access the text selectable documents (March 2008 till present) via http://bit.ly/gdocs-crow 
 
 
