@@ -1,0 +1,19 @@
+{
+    "status": "Beta",
+    "thumbnailUrl": "https://raw.githubusercontent.com/BetaNYC/What-is-BetaNYC/master/BetaNYC%20Logos/BetaNYC_short_blue_on_white_empire.png",
+     "bornAt": "Legislation",
+    "geography": "NYC",
+    "politicalEntity":"NY City Record",
+    "type":"Project",
+    "needs": [
+        {"need": "Researcher"},
+        {"need": "Scraper"};
+    ],
+    "categories": [
+        {"category": "Email List"},
+        {"category": "PDFs"},
+        {"category": "Scraping"},
+        {"category": "Research"},
+        {"category": "Code is law"},
+    ]
+}
