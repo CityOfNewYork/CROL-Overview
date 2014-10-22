@@ -153,12 +153,12 @@ The following needs structure
 ** Contact info / name / address / email
 
 ### Rules ###
-** Agency
-** Type of Rules change
-** Description
-** URL from nyc.gov/rules
+* Agency
+* Type of Rules change
+* Description
+* URL from nyc.gov/rules
 
 ### Changes in Personal ###
-** What goes here?
+* What goes here?
 
 ### Other Special Materials ###
