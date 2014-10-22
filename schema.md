@@ -120,37 +120,38 @@ The following needs more structure:
   recordText: "The Department of Citywide Administrative Services, Office of Citywide Procurement is currently selling surplus assets on the internet. Visit http://www.publicsurplus.com/sms/nycdcas.ny/browse/home. To begin bidding, simply click on ‘Register’ on the home page. There are no fees to register. Offerings may include but are not limited to: office supplies/equipment, furniture, building supplies, machine tools, HVAC/plumbing/electrical equipment, lab equipment, marine equipment, and more. Public access to computer workstations and assistance with placing bids is available at the following locations:� DCAS Central Storehouse, 66-26 Metropolitan Avenue, Middle Village, NY 11379 � DCAS, Office of Citywide Procurement, 1 Centre Street, 18th Floor, New York, NY 10007"
 
 The following needs structure
-	[Bid contact name]
-	[Bid contact location]
-	[Bid contact information]
-  [Bid URL]
+* [Bid contact name]
+*	[Bid contact location]
+* [Bid contact information]
+* [Bid URL]
   
 ### Court Notices ###
-** Court Body
-** Type of notice
-** Notice body
-** Notice Contact
-** Locations related to notice
-** URL related to notice
+* Court Body
+* Type of notice
+* Notice body
+* Notice Contact
+* Locations related to notice
+* URL related to notice
 
 ### procurement ###
-* Solicitation
-** Title 
-** Type of solicitation
-** PIN
-** Due date and time
-** Description 
-** Location, if applicable
-** Contact info / name / address / email
 
-* Intent to Award
-** Title
-** Type of solicitation
-** PIN
-** Due date and time
-** Description 
-** Location, if applicable
-** Contact info / name / address / email
+** Solicitation **
+* Title 
+* Type of solicitation
+* PIN
+* Due date and time
+* Description 
+* Location, if applicable
+* Contact info / name / address / email
+
+** Intent to Award **
+* Title
+* Type of solicitation
+* PIN
+* Due date and time
+* Description 
+* Location, if applicable
+* Contact info / name / address / email
 
 ### Rules ###
 * Agency
