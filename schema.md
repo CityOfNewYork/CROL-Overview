@@ -126,38 +126,39 @@ The following needs structure
   [Bid URL]
   
 ### Court Notices ###
-- Court Body
-- Type of notice
-- Notice body
-- Notice Contact
-- Locations related to notice
-- URL related to notice
+** Court Body
+** Type of notice
+** Notice body
+** Notice Contact
+** Locations related to notice
+** URL related to notice
 
 ### procurement ###
 * Solicitation
-- Title 
-- Type of solicitation
-- PIN
-- Due date and time
-- Description 
-- Location, if applicable
-- Contact info / name / address / email
+** Title 
+** Type of solicitation
+** PIN
+** Due date and time
+** Description 
+** Location, if applicable
+** Contact info / name / address / email
 
 * Intent to Award
-- Title
-- Type of solicitation
-- PIN
-- Due date and time
-- Description 
-- Location, if applicable
-- Contact info / name / address / email
+** Title
+** Type of solicitation
+** PIN
+** Due date and time
+** Description 
+** Location, if applicable
+** Contact info / name / address / email
 
 ### Rules ###
-- Agency
-- Type of Rules change
-- Description
-- URL from nyc.gov/rules
+** Agency
+** Type of Rules change
+** Description
+** URL from nyc.gov/rules
 
 ### Changes in Personal ###
+** What goes here?
 
 ### Other Special Materials ###
