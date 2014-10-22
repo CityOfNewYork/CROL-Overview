@@ -25,6 +25,21 @@ Working doc using records from 8/7/2014 City Record PDF: http://www.nyc.gov/html
   
   pointOfContact: "YVETTE V. GRUEL, Calendar Officer"
 
+The following needs more structure:
+ [Unique ID for the event]
+ [Time advertisement was placed]
+ [Location, Building Name, Address, Floor, Borough, City, Zip]
+ [Agency Name]
+ [Agency Division]
+ [Public Hearing Start time]
+ [Public Hearing End time]
+ [Community Board Number; Borough]
+ [Items to be discussed at hearing]
+ [Locations to be discussed]
+ [Event Contact, Name, Email, Phone]
+ [Videostreaming URL]
+ 
+
 #### Schema.org version - JSON-LD ####
 ```json
  <script type="application/ld+json">
@@ -103,10 +118,46 @@ Working doc using records from 8/7/2014 City Record PDF: http://www.nyc.gov/html
   subEntityName: "Office of Citywide Procurement"
   
   recordText: "The Department of Citywide Administrative Services, Office of Citywide Procurement is currently selling surplus assets on the internet. Visit http://www.publicsurplus.com/sms/nycdcas.ny/browse/home. To begin bidding, simply click on ‘Register’ on the home page. There are no fees to register. Offerings may include but are not limited to: office supplies/equipment, furniture, building supplies, machine tools, HVAC/plumbing/electrical equipment, lab equipment, marine equipment, and more. Public access to computer workstations and assistance with placing bids is available at the following locations:� DCAS Central Storehouse, 66-26 Metropolitan Avenue, Middle Village, NY 11379 � DCAS, Office of Citywide Procurement, 1 Centre Street, 18th Floor, New York, NY 10007"
-  
 
+The following needs structure
+	[Bid contact name]
+	[Bid contact location]
+	[Bid contact information]
+  [Bid URL]
+  
+### Court Notices ###
+- Court Body
+- Type of notice
+- Notice body
+- Notice Contact
+- Locations related to notice
+- URL related to notice
 
 ### procurement ###
+* Solicitation
+- Title 
+- Type of solicitation
+- PIN
+- Due date and time
+- Description 
+- Location, if applicable
+- Contact info / name / address / email
 
+* Intent to Award
+- Title
+- Type of solicitation
+- PIN
+- Due date and time
+- Description 
+- Location, if applicable
+- Contact info / name / address / email
 
+### Rules ###
+- Agency
+- Type of Rules change
+- Description
+- URL from nyc.gov/rules
 
+### Changes in Personal ###
+
+### Other Special Materials ###

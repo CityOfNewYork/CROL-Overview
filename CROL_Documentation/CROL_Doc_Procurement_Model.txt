@@ -1,0 +1,86 @@
+-=-=- Proc_Publicaiton_Request Table -=-=-
+
+Date_first_publ
+Date_last_publ
+Agency_Code
+Agency_Dept
+Type_of_Notice
+Reason_for_notice 
+Location_of_Correction 
+Procur_Category
+Short_Title
+Sel_Method
+Special_Case_Reason
+PIN
+due_Date
+Address_to_Request
+Contact_name
+Contact_Phone
+Email
+Address_to_Submit
+Contract_Amount
+vendor_Sys_ID
+vendor_Loc_ID
+Author_user_ID
+Approved
+audit_User_ID
+audit_date_time
+Time_Submitted
+Tracking_Number
+Requested_by
+Phone_Requested
+ConfNumber
+Vendor_Name
+Vendor_Address
+Contact_Fax
+NoAttachmentReason
+MWBE
+UrgentPublicationNeeded 
+UrgentPublicationReason 
+Additional_Descr
+Other_Inf
+Printout
+Correction_description 
+proc_Selection_Method_meth... 
+proc_Type_of_NoticeNotice_C... 
+agency_master_agency_code 
+proc_SectionsSectionID
+
+-=-=- proc_Type_of_Notice -=-=- 
+Notice_Code
+Descr
+IsForRegularAds
+
+-=-=- proc_Category -=-=-
+Category_Code 
+Category_Descr
+
+-=-=- proc_Selection_Method -=-=-
+method_Code
+method_descr
+special_case_reason
+
+-=-=- proc_reason_for_notice -=-=-
+reason_notice_id 
+reason_notice_descr
+
+-=-=- proc_Special_Case_Reason -=-=-
+Reason_Code
+Short_reason
+Reason_Descr
+
+-=-=- proc_Sections -=-=-
+SectionID
+SectionName 
+SectionDescr 
+Rank
+
+-=-=- agency_master -=-=-
+agency_code
+agency_name agency_abbr AddedForVTS
+Mayoral
+forVendors 
+CRPublicationAgenc... 
+AgencyDefaultAddre... 
+UpdatedDate 
+UpdatedBy
