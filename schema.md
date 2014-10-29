@@ -26,11 +26,11 @@ Working doc using records from 8/7/2014 City Record PDF: http://www.nyc.gov/html
   pointOfContact: "YVETTE V. GRUEL, Calendar Officer"
 
 The following needs more structure:
- [Unique ID for the event]
- [Time advertisement was placed]
- [Location, Building Name, Address, Floor, Borough, City, Zip]
- [Agency Name]
- [Agency Division]
+ * [Unique ID for the event]
+ *  [Time advertisement was placed]
+ *  [Location, Building Name, Address, Floor, Borough, City, Zip]
+ *  [Agency Name]
+ *  [Agency Division]
  [Public Hearing Start time]
  [Public Hearing End time]
  [Community Board Number; Borough]
