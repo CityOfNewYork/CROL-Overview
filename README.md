@@ -2,7 +2,7 @@
 
 
 ## Community Links
-* [Discussion List](http://bitly.com/nyc-crow)
+* [Discussion List](http://talk.beta.nyc/c/working-groups/city-record-online)
 * [Tasks](https://github.com/CityOfNewYork/CROL-PDF/issues)
 * [Tools and Wiki](https://github.com/CityOfNewYork/CROL-PDF/wiki)
 * [Download PDFs](https://github.com/CityOfNewYork/CROL-PDF#download-pdfs)
@@ -26,13 +26,13 @@ This project will start by converting the City Record PDFs, with more than 15 ye
 
 ## How to get started
 Currently, there are three things you can do.
-* [Join the City Record Online Working Group, aka CROW](http://bitly.com/nyc-crow) discussion list.
+* [Join the City Record Online Working Group, aka CROW](http://talk.beta.nyc/c/working-groups/city-record-online) discussion list.
 * [Help download and share PDFs](https://github.com/CityOfNewYork/CROL-PDF#download-pdfs)
 * [Help document schemas](https://github.com/CityOfNewYork/CROL-PDF/wiki)
 * [Help document tools to help scrape](https://github.com/CityOfNewYork/CROL-PDF/wiki/Scraping-tools)
 
 ## Download PDFs
-Currently, we are working on developing a number of outlets to download this treasure trove of information. In total, there are 16.3 gigs of archival PDFs. If you have any problems downloading these files, report an issue on [GitHub](https://github.com/CityOfNewYork/CROL-PDF/issues) or the [Discussion List](https://groups.google.com/a/betanyc.us/forum/#!forum/nyc-crol.public)
+Currently, we are working on developing a number of outlets to download this treasure trove of information. In total, there are 16.3 gigs of archival PDFs. If you have any problems downloading these files, report an issue on [GitHub](https://github.com/CityOfNewYork/CROL-PDF/issues) or the [Discussion List](http://talk.beta.nyc/c/working-groups/city-record-online)
 * 1998 to 2008 are scaned documents
 * March 2008 till present are 'text selectable'
 
