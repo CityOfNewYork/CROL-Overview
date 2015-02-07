@@ -139,18 +139,36 @@ Trust for Governors Island,TFGI
 BROOKLYN COMMUNITY BOARD 18,BKCB"""
 (agency_names, agency_abbrs) = zip(*map(lambda x:x.split(','), AGENCIES.split('\n')))
 
-
 import re
+
 AGENCIES_REGEX = re.compile("|".join(agency_names))
+def extractAgencyNames(str):
+    return AGENCIES_REGEX.findall(str, re.IGNORECASE)
+
 AGENCIES_ACRONYM_REGEX = re.compile("|".join(agency_abbrs))
+def extractAgencyAcronyms(str):
+    return AGENCIES_ACRONYM_REGEX.findall(str, re.IGNORECASE)
 
-TEST = """This is a very long example
-where I am trying to PPB stuff some Design Commission.
-and also
-City Record
-MDC
-Mayor's Office of Environmental Remediation
-"""
+PHONE_NUMBER_REGEX = re.compile("[(]\d\d\d[)] \d\d\d-\d\d\d\d")
+def extractPhoneNumbers(str):
+    return PHONE_NUMBER_REGEX.findall(str)
 
-print AGENCIES_REGEX.findall(TEST)
-print AGENCIES_ACRONYM_REGEX.findall(TEST)
+MONTHS = "January|February|March|April|May|June|July|August|September|October|November|December"
+DATE_REGEX = re.compile("(?:%s) (?:\d\d?), (?:\d\d\d\d)" % MONTHS)
+def extractDate(str):
+    return DATE_REGEX.findall(str, re.IGNORECASE)
+
+TAG_RE = re.compile(r'<[^>]+>')
+def cleanHtml(html):
+    return TAG_RE.sub('', html).replace('&nbsp;', ' ')
+
+nypl = open('nypl_hmtl.csv').read()
+items = nypl.split('\n')[1:]
+for item in items:
+  clean_item = cleanHtml(item)
+  print clean_item
+  print extractAgencyNames(clean_item)
+  print extractAgencyAcronyms(clean_item)
+  print extractDate(clean_item)
+  print extractPhoneNumbers(item)
+  print
