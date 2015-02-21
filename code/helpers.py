@@ -9,8 +9,11 @@ def cleanup_tags(string, tags=ADDITIONAL_DESCRIPTION_TAGS):
     and tags will probably be very helpful with some of the future tasks, but gotta
     start somewhere. It also converts to unicode and fixes html entities.
     """
+    #make this capable of being used with .apply to a column with nans
+    if type(string) == float:
+        return string
     mystring = string
-    if type(mystring != unicode):
+    if type(mystring) != unicode:
         mystring = mystring.decode('utf-8')
     for tag in tags:
         mystring = mystring.replace(tag,'')
