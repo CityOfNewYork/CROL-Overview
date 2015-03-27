@@ -5,9 +5,9 @@
 
 These are the different types of messages and their count that needs to be parsed.
 
-AgencyName                                      | Messages    | Completed?
-------------------------------------------------|-------------|----------
-Mayor's Office of Contract Services             |67           |   [ ]
+AgencyName                                      | Messages    | Status
+------------------------------------------------|-------------|---------------------
+Mayor's Office of Contract Services             |67           | coded. needs testing
 Community Boards                                |36           |
 Citywide Administrative Services                |35           |
 Housing Preservation and Development            |18           |
