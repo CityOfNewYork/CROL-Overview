@@ -1,0 +1,5 @@
+IPython[all]
+numpy
+scipy
+pandas
+beautifulsoup4
