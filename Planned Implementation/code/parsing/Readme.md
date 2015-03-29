@@ -7,6 +7,17 @@ Make NYC's Notifications accessible
 We are making grand plans.
 
 
+## Roadmap
+
+Create a parsing pileline to fascilitate incremental progress, where the
+output from the first parse will be consumed by the second parsing effort.
+
+Current Parse effort is to breakdown the records trying to match as many desired output schema
+in text format (no parsing dates, street names, dollar amounts, etc)
+
+Future steps would be to incorporate NER extraction for person and entities streetnames,
+
+
 ## Installation
 
 You'll need the following:
