@@ -18,12 +18,12 @@ Board Meetings                              | Meeting                   |       
 Board of Standards and Appeals              | Public Hearings           |         10     |
 Human Resources Administration              | Public Hearings           |          9     |
 Landmarks Preservation Commission           | Notice                    |          9     |
-                                            | Public Hearings           |          9     |
+Landmarks Preservation Commission           | Public Hearings           |          9     |
 Transportation                              | Public Hearings           |          9     |
 Environmental Protection                    | Public Hearings           |          8     |
 Human Resources Administration              | Notice                    |          8     |
 Health and Mental Hygiene                   | Public Hearings           |          7     |
-                                            | Notice                    |          7     |
+Health and Mental Hygiene                   | Notice                    |          7     |
 Transportation                              | Notice                    |          7     |
 Youth and Community Development             | Public Hearings           |          7     |
 City Planning Commission                    | Public Hearings           |          6     |
@@ -49,7 +49,7 @@ Design and Construction                     | Public Hearings           |       
 Environmental Control Board                 | Meeting                   |          3     |
 Environmental Protection                    | Notice                    |          3     |
 Comptroller                                 | Notice                    |          3     |
-                                            | Meeting                   |          3     |
+Comptroller                                 | Meeting                   |          3     |
 Small Business Services                     | Public Hearings           |          3     |
 Mayor's Office of Contract Services         | Meeting                   |          3     |
 City Record                                 | Notice                    |          3     |
@@ -87,7 +87,7 @@ Financial Information Services Agency       | Public Hearings           |       
 Health and Hospitals Corporation            | Meeting                   |          1     |
 Borough President - Manhattan               | Public Hearings           |          1     |
 Hudson River Park Trust                     | Notice                    |          1     |
-                                            | Public Hearings           |          1     |
+Hudson River Park Trust                     | Public Hearings           |          1     |
 Borough President - Queens                  | Meeting                   |          1     |
 Office of Payroll Administration            | Public Hearings           |          1     |
 Borough President - Brooklyn                | Public Hearings           |          1     |
@@ -101,5 +101,5 @@ Police                                      | Public Hearings           |       
 Office of Emergency Management              | Public Hearings           |          1     |
 Police                                      | Notice                    |          1     |
 Office of Management and Budget             | Notice                    |          1     |
-                                            | Public Hearings           |          1     |
+Office of Management and Budget             | Public Hearings           |          1     |
 Fire Department                             | Notice                    |          1     |
