@@ -4,12 +4,12 @@ Disclaimer. In case of conflicting document versions, please refer to documents 
 
 ## Important Docs
 
-*[Gold standard -  a human parsed file that showed the "correct" extraction of the different object.](https://docs.google.com/spreadsheets/d/1M-XbFTsVmbOn2LPyhyZchH0AiYGMaYcEXn1fypPyj-c/edit?usp=sharing)
-*[The Main Schema -  a reference file that shows what all the output fields should be and where (the source) they can be derived from.] (https://docs.google.com/spreadsheets/d/1str6vjjHS5EA_2ww9r4WjHA1t32Z00uLLbviegTc8WI/edit#gid=1430366155)
+* [Gold standard -  a human parsed file that showed the "correct" extraction of the different object.](https://docs.google.com/spreadsheets/d/1M-XbFTsVmbOn2LPyhyZchH0AiYGMaYcEXn1fypPyj-c/edit?usp=sharing)
+* [The Main Schema -  a reference file that shows what all the output fields should be and where (the source) they can be derived from.] (https://docs.google.com/spreadsheets/d/1str6vjjHS5EA_2ww9r4WjHA1t32Z00uLLbviegTc8WI/edit#gid=1430366155)
 
 ###Open Standard Links
 
-*[Reference Standards.] (https://docs.google.com/document/d/1USFMTHfrmBzDvNW08b2f6osyl9I375d7h47uGcvxXjY/edit)
+* [Reference Standards.] (https://docs.google.com/document/d/1USFMTHfrmBzDvNW08b2f6osyl9I375d7h47uGcvxXjY/edit)
 
 
 
@@ -41,25 +41,25 @@ Our goal is to optimize the utility of City Record content by making accessible 
 
 ## Achieved Milestones
 
-*Came together to form a CROW parsing and scraping volunteer team
-*Set up collaboration framework with DCAS
-*Scraped PDFs from 2008 - 2014
-*Proposed public notice schema
-*Added “addresses” and “time & dates” fields to the City’s input workflow
+* Came together to form a CROW parsing and scraping volunteer team
+* Set up collaboration framework with DCAS
+* Scraped PDFs from 2008 - 2014
+* Proposed public notice schema
+* Added “addresses” and “time & dates” fields to the City’s input workflow
 
 ## Tasks
 For a list of current tasks, please see Issues.
 
 ### Phase 1: Parsers and Schema
-*Develop a set of collaboratively produced open source library parsers to populate the Public Notice Data Standard schema using the DCAS pipeline 
+* Develop a set of collaboratively produced open source library parsers to populate the Public Notice Data Standard schema using the DCAS pipeline 
 
-*Work with DCAS to implement the pipeline into the City’s workflow by August 1, and use that as their way of publishing the City Record data
+* Work with DCAS to implement the pipeline into the City’s workflow by August 1, and use that as their way of publishing the City Record data
 
-*Publish a Public Notice Data Standard and documentation on an interactive website
+* Publish a Public Notice Data Standard and documentation on an interactive website
 
 ### Phase 2: PDF Scraping
-*Scrape the archival PDFs
-*Apply and modify the parsers to be able to parse and structure the data in the PDFs
+* Scrape the archival PDFs
+* Apply and modify the parsers to be able to parse and structure the data in the PDFs
 
 
 ## Press Releases, Blog Posts, and News Articles
