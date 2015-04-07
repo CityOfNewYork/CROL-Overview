@@ -1,58 +1,65 @@
-# City Record Online - PDF Scraping Project
+# City Record Online Workgroup 
+
+Disclaimer. In case of conflicting document versions, please refer to documents mentioned in GitHub as the latest version.
+
+## Important Docs
+
+* [Gold standard -  a human parsed file that showed the "correct" extraction of the different object.](https://docs.google.com/spreadsheets/d/1M-XbFTsVmbOn2LPyhyZchH0AiYGMaYcEXn1fypPyj-c/edit?usp=sharing)
+* [The Main Schema -  a reference file that shows what all the output fields should be and where (the source) they can be derived from.] (https://docs.google.com/spreadsheets/d/1str6vjjHS5EA_2ww9r4WjHA1t32Z00uLLbviegTc8WI/edit#gid=1430366155)
+
+###Open Standard Links
+
+* [Reference Standards.] (https://docs.google.com/document/d/1USFMTHfrmBzDvNW08b2f6osyl9I375d7h47uGcvxXjY/edit)
+
 
 
 ## Community Links
 * [Discussion List](http://talk.beta.nyc/c/working-groups/city-record-online)
-* [Tasks](https://github.com/CityOfNewYork/CROL-PDF/issues)
+* [Ongoing Tasks](https://github.com/CityOfNewYork/CROL-PDF/issues)
+* [Resources](https://drive.google.com/drive/#folders/0B98QOZfGax93eWQyOHB4dWRWczg)
 * [Tools and Wiki](https://github.com/CityOfNewYork/CROL-PDF/wiki)
 * [Download PDFs](https://github.com/CityOfNewYork/CROL-PDF#download-pdfs)
 * [Press Release & News Articles](https://github.com/CityOfNewYork/CROL-PDF#press-releases-blog-posts-and-news-articles)
 
 ## About
-As the City embarks on implementing Intro 363-2014 and unlocking its daily actions, we are building a public workgroup to unlock the decades of historical information and make it accessible to all, at no charge. 
 
-Our group’s goal is to disassemble digital copies of City Record and convert them into usable notifications, words, dates, and events. We want to make solicitation procurement notices and awards, public hearings, meetings, court notices, property dispositions, agency public hearings, agency rules, and changes in personnel into a powerful archive for all. 
+As the City embarks on implementing Intro 363-2014 and unlocking its daily actions, we are working together with the Department of Citywide Services to publish the City Record as open, clean and structured data. At the same time, we are unlocking decades of historical information and making it accessible to all, at no charge. 
 
-This project will start by converting the City Record PDFs, with more than 15 years of data, into usable information. Facilitated by BetaNYC and Socrata, we will turn these files into a first class collection of information that builds a smarter city. Through this process businesses, community groups, academics, and the public will learn how their City government works. This unique collaboration of government, industry, hackers, and advocates, illustrates that opening up data isn't just about transparency but actually building smarter, more inclusive, and resilient governance.
+Our goal is to optimize the utility of City Record content by making accessible and structuring the data; addresses, dates, persons, subjects, agencies, contract types and more are parsed and made available as individual objects. This way, residents, organizations and small and large businesses alike will be able to access, interact and stay informed, whether through notifications, visualizations or other easy-to-use community tools.
+
 
 ### Project Partners
 * City of New York
 * BetaNYC
+* Commune
 * Citizens Union 
 * Dev Bootcamp 
 * Ontodia
 * Socrata
 * Sunlight Foundation
 
-## How to get started
-Currently, there are three things you can do.
-* [Join the City Record Online Working Group, aka CROW](http://talk.beta.nyc/c/working-groups/city-record-online) discussion list.
-* [Help download and share PDFs](https://github.com/CityOfNewYork/CROL-PDF#download-pdfs)
-* [Help document schemas](https://github.com/CityOfNewYork/CROL-PDF/wiki)
-* [Help document tools to help scrape](https://github.com/CityOfNewYork/CROL-PDF/wiki/Scraping-tools)
 
-## Download PDFs
-Currently, we are working on developing a number of outlets to download this treasure trove of information. In total, there are 16.3 gigs of archival PDFs. If you have any problems downloading these files, report an issue on [GitHub](https://github.com/CityOfNewYork/CROL-PDF/issues) or the [Discussion List](http://talk.beta.nyc/c/working-groups/city-record-online)
-* 1998 to 2008 are scaned documents
-* March 2008 till present are 'text selectable'
+## Achieved Milestones
 
-### HTML/XML (Complete set)
-If you have a tool that will crawl and download websites, you can download all of the PDFs from the City. 
-* [Browse All City Records](http://www.nyc.gov/html/misc/html/cityrecord/cityrecord.html)
-* [Download XML Listing for All City Records](http://www.nyc.gov/html/misc/html/cityrecord/cityrecord.xml)
-* Suggested tools - [SiteSucker, for Mac OSX](http://www.sitesucker.us/home.html), [HTTrack, for Windows](http://www.httrack.com), and [wget, if you prefer a cross-platform, command-line interface](http://www.linuxjournal.com/content/downloading-entire-web-site-wget)
+* Came together to form a CROW parsing and scraping volunteer team
+* Set up collaboration framework with DCAS
+* Scraped PDFs from 2008 - 2014
+* Proposed public notice schema
+* Added “addresses” and “time & dates” fields to the City’s input workflow
 
-### Dropbox (Complete set)
-We have shared the [complete collection of files via Dropbox](http://bit.ly/dropbox-crow). You can download them individually or you can add the primary folder and sync to a local storage device. (shareable link http://bit.ly/dropbox-crow)
+## Tasks
+For a list of current tasks, please see Issues.
 
-### BitTorrent Sync (Complete set)
-As a bit of an experiment we are using [BitTorrent protocol](http://en.wikipedia.org/wiki/BitTorrent). This is the complete 16.3 gigs. Please help by downloading and socializing these PDFs. You will need to download [BitTorrent Sync](http://www.bittorrent.com/sync/get-started) and use the following read-only 'secret' passcode "BDGM4KAQHZ6XII2JNJREDX6VDN3QTLI7G" (shareable link http://bit.ly/bts-crow)
+### Phase 1: Parsers and Schema
+* Develop a set of collaboratively produced open source library parsers to populate the Public Notice Data Standard schema using the DCAS pipeline 
 
-### FTP (Complete set)
-BetaNYC is hosting an [FTP server](http://en.wikipedia.org/wiki/File_Transfer_Protocol) with all of the PDFs. These files can be fetched anonymously via files.betanyc.us (ftp://anonymous@files.betanyc.us:21/).
+* Work with DCAS to implement the pipeline into the City’s workflow by August 1, and use that as their way of publishing the City Record data
 
-### Google Docs (Complete set)
-If you have the [Google Drive for your computer](https://tools.google.com/dlpage/drive), you can download all of the PDFs to your local computer. We are in the process of uploading all of the documents. For now, you can only access the text selectable documents (March 2008 till present) via http://bit.ly/gdocs-crow 
+* Publish a Public Notice Data Standard and documentation on an interactive website
+
+### Phase 2: PDF Scraping
+* Scrape the archival PDFs
+* Apply and modify the parsers to be able to parse and structure the data in the PDFs
 
 
 ## Press Releases, Blog Posts, and News Articles
@@ -66,5 +73,3 @@ If you have the [Google Drive for your computer](https://tools.google.com/dlpage
 * [Gotham Gazette](http://www.gothamgazette.com/index.php/government/5211-de-blasio-embraces-civic-tech-bill-city-record-online)
 * [CM Ben Kallos Press Release](http://benkallos.com/press-release/mayor-bill-de-blasio-signs-two-transparency-bills-law-announces-public-private-partner)
 * [TechPresident](http://techpresident.com/news/25231/new-york-city-and-silicon-valley-local-government-innovation-gets-outside-help)
-
-
