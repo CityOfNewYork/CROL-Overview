@@ -26,7 +26,7 @@ folder breaks out one notice type of one Agency to parse for salient key value p
 ##Tools
 - Python 3.4.3
 - iPython - A command shell for interactive computing
-- iPython Notebook - .ipnyb file type, launches in Jupyter, allows you to view and edit ipython scripts with explanitory text.
+- iPython Notebook - .ipnyb file type, launches locally in Jupyter or online in nbViewer. Allows you to view and edit ipython scripts with explanitory text.
 
 ### Installation
 
@@ -55,5 +55,5 @@ You'll need the following:
 
 4. Now, with iPython insallted you may view all notebooks in the directory using:
 
-        ipython notebookr
+        ipython notebook
 
