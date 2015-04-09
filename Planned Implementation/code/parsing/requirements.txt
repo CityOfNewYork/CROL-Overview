@@ -4,3 +4,6 @@ scipy
 pandas
 beautifulsoup4
 python-dateutil
+blockdiag
+seqdiag
+actdiag
