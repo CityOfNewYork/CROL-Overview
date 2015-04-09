@@ -10,9 +10,9 @@ AgencyName                                  | TypeOfNoticeDescription   | Messag
 Mayor's Office of Contract Services         | Notice                    |         64     | [Initial Parse. Needs Schema work](http://bit.ly/1acOFGI).
 Community Boards                            | Public Hearings           |         36     | [Have to verify input datar](http://bit.ly/1bLu1xJ).
 Citywide Administrative Services            | Public Hearings           |         20     | 1[7/20 entries failed to parse. Have to verify input data](http://bit.ly/1BKZIgJ).
-Housing Preservation and Development        | Notice                    |         15     |
-Citywide Administrative Services            | Notice                    |         15     |
-City Planning                               | Notice                    |         13     |
+Housing Preservation and Development        | Notice                    |         15     | 10 Errors. Most seem to be bad scraped from PDF
+Citywide Administrative Services            | Notice                    |         15     | 14 Errors. Most seem to be bad scraped from PDF
+City Planning                               | Notice                    |         13     | 10 Errors. Most seem to be bad scraped from PDF
 Administration for Children's Services      | Public Hearings           |         13     |
 Board Meetings                              | Meeting                   |         12     |
 Board of Standards and Appeals              | Public Hearings           |         10     |
