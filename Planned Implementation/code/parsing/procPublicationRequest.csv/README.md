@@ -1,6 +1,12 @@
 # Summary
 Todo...
 
+
+## Pro tips for viewing ipython notebooks
+
+* Installing the appropriate [extension](http://jiffyclub.github.io/open-in-nbviewer/) for your browser
+   will give you a button to render and view any .ipynb files from github.
+
 ## DCAS Database Sample data:
 
 1. [procPublicationRequestDMSSPortal Oct-Dec 2014.csv](http://goo.gl/mh67qm). This CSV has extra
