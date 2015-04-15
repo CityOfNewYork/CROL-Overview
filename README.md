@@ -1,5 +1,6 @@
-# City Record Online Workgroup 
+# City Record Online Workgroup (CROW) - Parsing
 
+This is the main repository containing efforts pertaining to the parsing efforts of CROW. For Notice Schema development, see  https://github.com/CityOfNewYork/CROL-Schema
 Disclaimer. In case of conflicting document versions, please refer to documents mentioned in GitHub as the latest version.
 
 ## Important Docs
