@@ -1,10 +1,10 @@
 # City of Record Parsing
+Building a pipeline between the internal City Record data structure and the optimized public notice schema.
 
-Make NYC's Notifications accessible
 
 ## Status
 
-We are making grand plans.
+Finalizing end-to-end MVP parsing libraries
 
 
 ## Roadmap
