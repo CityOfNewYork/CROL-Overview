@@ -1,4 +1,4 @@
-# City of Record Parsing
+# City Record Parsing
 Building a pipeline between the internal City Record data structure and the optimized public notice schema.
 
 
