@@ -1,5 +1,18 @@
 # City Record Online Workgroup (CROW) - Parsing
 
+## Where this went (2026 note)
+
+This repository is a **historical record** of the City Record Online Workgroup (CROW), 2014–2017. The project succeeded:
+
+* **CROL launched in 2014** under [Local Law 7 of 2014 (Intro 363-2014)](https://legistar.council.nyc.gov/LegislationDetail.aspx?ID=1681058&GUID=E88BD576-8918-4067-B42B-B2D26E76CD27) — the City Record is published online daily at [a856-cityrecord.nyc.gov](https://a856-cityrecord.nyc.gov/).
+* **The data is open**: the [City Record Online dataset](https://data.cityofnewyork.us/City-Government/City-Record-Online/dg92-zbpx) on NYC Open Data carries 1M+ notices (2003–present; full multi-section coverage from 2013), updated daily.
+* **Programmatic access**: BetaNYC maintains [nyc-record-mcp](https://github.com/BetaNYC/nyc-record-mcp), an MCP server over the City Record API.
+* The **2008–2014 text-file archive** in `Current DCAS Implementation/` is preserved (with checksummed manifest) in a BetaNYC archive repository, in preparation for public release.
+* The sister schema effort lives at [CROL-Schema](https://github.com/CityOfNewYork/CROL-Schema). (`CROL-PDF` and `CROL-Parsing` were earlier names of *this* repo.)
+
+Code under `Planned Implementation/` is Python 2-era and **unmaintained** — kept for historical reference, not for use. Several community links below (talk.beta.nyc, Google Drive folders) are from 2014–2015 and may only exist in the [Wayback Machine](https://web.archive.org/).
+
+
 This is the main repository containing efforts pertaining to the parsing efforts of CROW. For Notice Schema development, see  https://github.com/CityOfNewYork/CROL-Schema.
 
 Disclaimer. In case of conflicting document versions, please refer to documents mentioned in GitHub as the latest version.
@@ -7,7 +20,7 @@ Disclaimer. In case of conflicting document versions, please refer to documents 
 ## Important Docs
 
 * [Gold standard -  a human parsed file that showed the "correct" extraction of the different object.](https://docs.google.com/spreadsheets/d/1M-XbFTsVmbOn2LPyhyZchH0AiYGMaYcEXn1fypPyj-c/edit?usp=sharing)
-* [The Main Schema -  a reference file that shows what all the output fields should be and where (the source) they can be derived from.] (https://docs.google.com/spreadsheets/d/1str6vjjHS5EA_2ww9r4WjHA1t32Z00uLLbviegTc8WI/edit#gid=1430366155)
+* [The Main Schema -  a reference file that shows what all the output fields should be and where (the source) they can be derived from.](https://docs.google.com/spreadsheets/d/1str6vjjHS5EA_2ww9r4WjHA1t32Z00uLLbviegTc8WI/edit#gid=1430366155)
 
 ###Open Standard Links
 
@@ -16,7 +29,7 @@ Disclaimer. In case of conflicting document versions, please refer to documents 
 
 
 ## Community Links
-* [Discussion List](http://talk.beta.nyc/c/working-groups/city-record-online)
+* [Discussion List](https://web.archive.org/web/2015*/talk.beta.nyc/c/working-groups/city-record-online) *(discussion forum retired; Wayback captures*)
 * [Ongoing Tasks](https://github.com/CityOfNewYork/CROL-PDF/issues)
 * [Resources](https://drive.google.com/drive/#folders/0B98QOZfGax93eWQyOHB4dWRWczg)
 * [Tools and Wiki](https://github.com/CityOfNewYork/CROL-PDF/wiki)
