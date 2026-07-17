@@ -1,0 +1,8 @@
+Abbriviations,
+[DCAS],"= DCAS specific field. Not needed for the standard format, but is needed for DCAS"
+[RT],"= Value stored in a reference table, that contains ID and value"
+[M],= The object can be repeated multiple times for the notice in question.
+[RR],= Reference table ID
+[PD],= Possible Duplicate. Investigate
+[ST],= Stored in a separate table with an ID and value. IDs are chronological. For space
+[??],= Unresolved questions that have to be solved before building parsers

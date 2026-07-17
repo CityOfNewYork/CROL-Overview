@@ -21,6 +21,7 @@ Disclaimer. In case of conflicting document versions, please refer to documents 
 
 * [Gold standard -  a human parsed file that showed the "correct" extraction of the different object.](https://docs.google.com/spreadsheets/d/1M-XbFTsVmbOn2LPyhyZchH0AiYGMaYcEXn1fypPyj-c/edit?usp=sharing)
 * [The Main Schema -  a reference file that shows what all the output fields should be and where (the source) they can be derived from.](https://docs.google.com/spreadsheets/d/1str6vjjHS5EA_2ww9r4WjHA1t32Z00uLLbviegTc8WI/edit#gid=1430366155)
+  * Preserved in this repo (2026 export): [`Planned Implementation/Main Schema (Output).xlsx`](Planned%20Implementation/Main%20Schema%20(Output).xlsx) — CSV versions: [main sheet](Planned%20Implementation/main-schema-main-schema.csv), [schema guide](Planned%20Implementation/main-schema-schema-guide.csv)
 
 ###Open Standard Links
 
